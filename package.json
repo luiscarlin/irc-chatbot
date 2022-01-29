@@ -1,0 +1,9 @@
+{
+  "name": "irc-chatbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": "git@github.com:luiscarlin/irc-chatbot.git",
+  "author": "Luis Carlin <luiscarlin@gmail.com>",
+  "license": "MIT"
+}
